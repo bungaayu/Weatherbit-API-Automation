@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars0.githubusercontent.com/u/19369327?s=400&v=4" alt="Logo" width="80" height="80">
+
 <h2 align="center">Weatherbit API Automation Testing</h2>
  
 </div>
@@ -13,9 +13,12 @@
 
 ### Built With
 
-* [Java 1.8](https://www.oracle.com/java/technologies/downloads/)
-* [Intellij IDEA]()
-* [Maven]()
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/-rest%20assured-000000?style=for-the-badge&logoColor=black)
+![Serenity BDD](https://img.shields.io/badge/-serenity%20bdd-16a67a?style=for-the-badge&logoColor=black)
+![Cucumber](https://img.shields.io/badge/-cucumber-4bc47b?style=for-the-badge&logoColor=black)
 
 <br>
 
